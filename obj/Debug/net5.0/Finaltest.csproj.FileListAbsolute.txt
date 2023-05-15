@@ -1,0 +1,16 @@
+C:\Users\MDT\Desktop\Finaltest\bin\Debug\net5.0\Finaltest.exe
+C:\Users\MDT\Desktop\Finaltest\bin\Debug\net5.0\Finaltest.deps.json
+C:\Users\MDT\Desktop\Finaltest\bin\Debug\net5.0\Finaltest.runtimeconfig.json
+C:\Users\MDT\Desktop\Finaltest\bin\Debug\net5.0\Finaltest.runtimeconfig.dev.json
+C:\Users\MDT\Desktop\Finaltest\bin\Debug\net5.0\Finaltest.dll
+C:\Users\MDT\Desktop\Finaltest\bin\Debug\net5.0\ref\Finaltest.dll
+C:\Users\MDT\Desktop\Finaltest\bin\Debug\net5.0\Finaltest.pdb
+C:\Users\MDT\Desktop\Finaltest\obj\Debug\net5.0\Finaltest.csproj.AssemblyReference.cache
+C:\Users\MDT\Desktop\Finaltest\obj\Debug\net5.0\Finaltest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT\Desktop\Finaltest\obj\Debug\net5.0\Finaltest.AssemblyInfoInputs.cache
+C:\Users\MDT\Desktop\Finaltest\obj\Debug\net5.0\Finaltest.AssemblyInfo.cs
+C:\Users\MDT\Desktop\Finaltest\obj\Debug\net5.0\Finaltest.csproj.CoreCompileInputs.cache
+C:\Users\MDT\Desktop\Finaltest\obj\Debug\net5.0\Finaltest.dll
+C:\Users\MDT\Desktop\Finaltest\obj\Debug\net5.0\ref\Finaltest.dll
+C:\Users\MDT\Desktop\Finaltest\obj\Debug\net5.0\Finaltest.pdb
+C:\Users\MDT\Desktop\Finaltest\obj\Debug\net5.0\Finaltest.genruntimeconfig.cache
